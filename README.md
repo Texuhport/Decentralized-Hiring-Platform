@@ -1,7 +1,7 @@
 
 <div align="center">
     
-# Crypto Market Analysis
+# Decentralized Hiring/ Freelance Platform
     
 ##### Created by [Demi Oyebanji](mailto:oluwademiladeoyebanji@outlook.com) as an assignment for the **UofT SCS Financial Technology Bootcamp**
 ________________________________________________________________________________________________________
